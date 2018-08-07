@@ -39,7 +39,7 @@ public class BrowserConfig {
         }
     }
 
-    private static final String chromeDriverVersion = "2.35";
+    private static final String chromeDriverVersion = "2.41";
     private static final String chromeDriverRootURL = "https://chromedriver.storage.googleapis.com/" + chromeDriverVersion + "/";
     private static final String seleniumDriversLocalPath = "target" + File.separator + "selenium" + File.separator;
 
